@@ -1,0 +1,17 @@
+com\inventario\restfulinventario\resources\ApiHistorico.class
+com\inventario\modelo\operacionesCRUD\UsuariosCRUD.class
+com\inventario\restfulinventario\resources\ApiEntradaSalida.class
+com\inventario\restfulinventario\resources\ApiUsuarios.class
+com\inventario\restfulinventario\resources\ApiProductos.class
+com\inventario\modelo\objetosBase\Rol.class
+com\inventario\modelo\objetosBase\Usuario.class
+com\inventario\modelo\operacionesCRUD\EntradaSalidaCRUD.class
+com\inventario\restfulinventario\JakartaRestConfiguration.class
+com\inventario\modelo\objetosBase\Estatus.class
+com\inventario\modelo\ConexionBD.class
+com\inventario\modelo\objetosBase\TransaccionInventario.class
+com\inventario\restfulinventario\resources\ApiInventario.class
+com\inventario\modelo\objetosBase\Producto.class
+com\inventario\modelo\operacionesCRUD\HistoricoCRUD.class
+com\inventario\modelo\operacionesCRUD\ProductosCRUD.class
+com\inventario\modelo\operacionesCRUD\InventarioCRUD.class
