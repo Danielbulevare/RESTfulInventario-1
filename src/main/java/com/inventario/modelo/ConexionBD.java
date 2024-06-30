@@ -13,7 +13,7 @@ public class ConexionBD {
     public static boolean establecerConexion() {
         try {
             Class.forName("com.mysql.cj.jdbc.Driver");
-            conexion = DriverManager.getConnection("jdbc:mysql://localhost:3306/inventario", "root", "redes+1");
+            conexion = DriverManager.getConnection("jdbc:mysql://localhost:3306/inventario", "root", "ponAquiLaContraseñaDeLaBD");
         } catch (ClassNotFoundException | SQLException ex) {
             Logger.getLogger(ConexionBD.class.getName()).log(Level.SEVERE, null, ex);
 
